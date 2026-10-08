@@ -13,7 +13,7 @@ Apaixonado por tecnologia e por transformar ideias em código. Estou em constant
 - 🌱 Aprofundando meus conhecimentos em desenvolvimento web, Python e banco de dados
 - 🤝 Aberto a estágios, colaborações e projetos open source
 
-## 📁 Projetos 🚀 Projetos
+## 📁 Projetos
 
 > Projetos reais em produção. O código-fonte é privado, e os repositórios abaixo são vitrines com descrição, funcionalidades e tecnologias.
 
