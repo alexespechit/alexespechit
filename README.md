@@ -9,7 +9,7 @@ Apaixonado por tecnologia e por transformar ideias em código. Estou em constant
 ## 🚀 O que estou fazendo
 
 - 🎓 Cursando Ciências da Computação
-- 🔭 Desenvolvendo projetos pessoais para praticar e montar meu portfólio
+- 🔭 Desenvolvendo projetos pessoais e já tenho projetos em produção, funcionando e disponíveis online — confira no [portfólio](https://lightblue-cheetah-863100.hostingersite.com/)
 - 🌱 Aprofundando meus conhecimentos em desenvolvimento web, Python e banco de dados
 - 🤝 Aberto a estágios, colaborações e projetos open source
 
