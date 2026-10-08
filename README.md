@@ -2,6 +2,8 @@
 
 📚 Estudante de **Ciências da Computação** · 📍 Belo Horizonte, MG
 
+🌐 [Portfólio](https://lightblue-cheetah-863100.hostingersite.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/alexsanderespechit)
+
 Apaixonado por tecnologia e por transformar ideias em código. Estou em constante aprendizado, construindo projetos e evoluindo como desenvolvedor.
 
 ## 🚀 O que estou fazendo
@@ -21,10 +23,10 @@ Apaixonado por tecnologia e por transformar ideias em código. Estou em constant
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Vamos conversar?
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lightblue-cheetah-863100.hostingersite.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsanderespechit)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsander.fespechit@gmail.com)
 
