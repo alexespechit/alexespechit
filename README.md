@@ -13,6 +13,16 @@ Apaixonado por tecnologia e por transformar ideias em código. Estou em constant
 - 🌱 Aprofundando meus conhecimentos em desenvolvimento web, Python e banco de dados
 - 🤝 Aberto a estágios, colaborações e projetos open source
 
+## 📁 Projetos 🚀 Projetos
+
+> Projetos reais em produção. O código-fonte é privado, e os repositórios abaixo são vitrines com descrição, funcionalidades e tecnologias.
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [Pousada Real Cipó — Sistema de Reservas](https://github.com/alexespechit/pousada-real-cipo-sistema) | Painel de gestão de clientes, unidades e reservas, com PDF e prevenção de conflito de datas | Next.js, TypeScript, Prisma, PostgreSQL |
+| [Pousada Real Cipó — Site](https://github.com/alexespechit/pousada-real-cipo-site) ([ver no ar](https://pousadarealcipo.com.br)) | Site institucional responsivo com reserva por WhatsApp e sistema de ingressos | Next.js, React, Tailwind, Framer Motion, Supabase |
+| [ALX Imob — Site](https://github.com/alexespechit/alx-imob-site) ([ver no ar](https://alximob.com.br)) | Landing page de serviço de organização de CRM imobiliário | React, Vite |
+
 ## 🛠️ Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
